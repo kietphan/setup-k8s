@@ -1,9 +1,9 @@
 [masters]
-master ansible_host=35.240.249.112 ansible_user=kietphan
+master ansible_host=34.87.17.0 ansible_user=kietphan
 
 [workers]
-worker1 ansible_host=35.240.152.252 ansible_user=kietphan
-worker2 ansible_host=35.197.143.136 ansible_user=kietphan
+worker1 ansible_host=35.240.150.190 ansible_user=kietphan
+worker2 ansible_host=35.198.203.157 ansible_user=kietphan
 
 [all:vars]
 ansible_python_interpreter=/usr/bin/python3

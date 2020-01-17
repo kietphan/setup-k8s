@@ -22,7 +22,7 @@ ansible-playbook -i hosts master.yml
 ## Setting Up the Worker Nodes
 
 ```sh
-ansible-playbook -i hosts master.yml
+ansible-playbook -i hosts workers.yml
 ```
 
 ## Verifying the Cluster
