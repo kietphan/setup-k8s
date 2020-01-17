@@ -1,7 +1,5 @@
 # Setup K8s with 1 master, 2 node
 
-This gem is used to provide internal access for sakani-integration-service end-points in Sakani services.
-
 ## 1. Create User
 ```sh
  ansible-playbook -i hosts initial.yml
